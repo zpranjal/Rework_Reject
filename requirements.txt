@@ -1,0 +1,6 @@
+jupyterlab
+nbclient
+pandas
+datetime
+pygsheets
+gspread
